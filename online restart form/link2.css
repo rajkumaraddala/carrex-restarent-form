@@ -1,0 +1,35 @@
+
+
+
+
+ 
+    h2{
+ background-color: cornflowerblue;
+ font-size: 30px;
+ font-weight: bolder;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+
+ text-align:center;
+ opacity: 10;
+}
+h3
+{
+    font-family: 'Segoe UI';
+    font-style: italic;
+    font
+    font-weight: bold;
+    font-size: 30px;
+    background-color: red;
+}
+p{
+   color: rgb(5, 1, 5);
+   font-weight:bold;
+   background-color: rgba(76, 126, 11, 0.568);
+   font-weight: 35PX;
+}
+
+   
+body{
+
+   background-image: scr="C:\Users\hp\Downloads\pexels-viktoria-alipatova-2074130.jpg";
+}

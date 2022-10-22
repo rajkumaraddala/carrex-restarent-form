@@ -1,0 +1,31 @@
+body
+{
+
+    font-family: 'Courier New', 
+    font-size: 30px;
+    text-align:center;
+    color:blue;
+    background-color: black;
+
+    font-weight:bold;  
+
+
+p{
+    background-image: https://thumbs.dreamstime.com/b/cozy-restaurant-tables-ready-dinner-39875776.jpg;
+
+
+
+h1{
+    color: rgb(25, 248, 55);
+    background-color: rgba(238, 22, 65, 0.048);
+   
+
+
+h4{
+font-size: 20px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: bold;
+colour:rgb(20, 85, 7);
+background-color: brown;
+text-align: center;
+}
